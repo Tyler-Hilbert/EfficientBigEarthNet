@@ -51,7 +51,7 @@ All pretrained models can be found [here](https://www.dropbox.com/sh/8bzc1k1e2ej
 | WideResNet-COORD | [Download](https://www.dropbox.com/s/qf9n1i0a48uinez/checkpoint_WideResNet_COORD.zip?dl=0) |
 | WideResNet-CBAM | [Download](https://www.dropbox.com/s/ddif8bzfoohx2ap/checkpoint_WideResNet_CBAM.zip?dl=0) |
 | WideResNet-CBAM-Ghost | [Download](https://www.dropbox.com/s/ychczklu54ifigs/checkpoint_WideResNet_CBAM_GHOST.zip?dl=0) |
-| WideResNet-COORD-Ghost | [Download](https://www.dropbox.com/s/ychczklu54ifigs/checkpoint_WideResNet_CBAM_GHOST.zip?dl=0) |
+| WideResNet-COORD-Ghost | Link Broken |
 | WideResNet-SE | [Download](https://www.dropbox.com/s/9c6wykn88ettxfs/checkpoint_WideResNet_SE.zip?dl=0) |
 | WideResNet-SE-Ghost | [Download](https://www.dropbox.com/s/9azmeuhfy1ukb52/checkpoint_WideResNet_SE_GHOST.zip?dl=0) |
 | WideResNet-ECA | [Download](https://www.dropbox.com/s/9hqv5xibnx719z0/checkpoint_WideResNet_ECA.zip?dl=0) |
